@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87741a80-595c-47c2-9135-ceb19b88a406" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/Deydam_Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/allure-results/2c7aa727-1e1b-4820-9acb-a053e6145354-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/allure-results/8aff926c-7cc6-4ac8-aacf-0fa6caaeedaf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/allure-results/aa4deec9-8a66-4a1a-a004-974a0e98cc38-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/allure-results/b1c10c5f-2c43-4ed3-a30c-af9faaef7a2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/allure-results/b26088f3-8a67-4951-8bcc-2bcd66fc8df3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/src/test/java/UserManagementTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook_login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/257ecac1-85e2-4b99-b6d1-3033a5e069a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d724cd4-f723-4d51-9537-096c1d026201-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/34bbf1e9-679a-4ddd-a43e-7072c61bc737-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/39dcd291-6d95-4819-a2ec-12eaaec96fd3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/824909bf-4291-40bc-8e0e-3e68b853b434-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d367599-3f93-4809-8bdc-2944f2c679cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa89217e-c9b5-4e87-a0ef-af4e56ef66a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b82814c8-4b9d-45b2-8ea0-aad8da914bb1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd59317d-43b1-4620-a5c6-bf11da359925-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/de549ebb-e4ae-4ba1-86fb-67a130ed44e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserManagementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pdPqvokl78OrAzSPi70dReSW8R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/allure-results" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\SinglePage_Task\Facebook\allure-results" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserManagementTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook_Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="User.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="User" />
+      <option name="MAIN_CLASS_NAME" value="User.UserManagementTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserManagementTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87741a80-595c-47c2-9135-ceb19b88a406" name="Default Changelist" comment="" />
+      <created>1615510195374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615510195374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
