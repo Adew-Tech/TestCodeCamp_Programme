@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8edccf3-dbdf-4cc1-898e-a3cb99faa0ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM_POM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0a0d2613-1883-4568-9e60-b329d0397215-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0d1b4c9e-9949-4020-a41a-0bc8e54c1bc8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/658aeb5f-fc6a-4711-b4d6-8b2698c0ab96-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a31037b1-ced2-44b1-8ad2-f301e38ace05-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/setup/SetupTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/PageObject/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/PageObject/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/setup/SetupTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/014c40d7-9d96-4bea-97d8-be97a08e529a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0cb990e2-fbf1-4d0a-9263-b9365ace3d68-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df44ac8f-94f4-4f5d-ad6a-de6ead44029b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e198e743-9486-40b2-92dc-12cf470e4bbb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8b5bcea-45ac-4a0c-995a-74df7768770f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/Konga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/Konga/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/src/main/java/Login/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/src/main/java/Pages/SubCategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/src/main/java/Pages/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/src/main/java/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SinglePage_task/Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SinglePage_task/Facebook/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +200,7 @@
       <item itemvalue="JUnit.All in OrangeHRM_POM (1)" />
       <item itemvalue="JUnit.All in OrangeHRM_POM (2)" />
       <item itemvalue="JUnit.All in OrangeHRM_POM (3)" />
+      <item itemvalue="TestNG.C:/Users/ADMIN/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml (1)" />
       <item itemvalue="TestNG.C:/Users/ADMIN/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" />
     </list>
     <recent_temporary>
