@@ -95,7 +95,7 @@ public class LoginTests {
         driver.findElement(By.xpath("//button[@class = 'dashboard-card__button Card']")).click();
 
         //Enter the card number
-        driver.findElement(By.xpath("//input[@class = 'card-number input_class' and @id = 'card-number']")).sendKeys("536676471396344");
+        driver.findElement(By.xpath("//input[@class = 'card-number input_class' and @id = 'card-number']")).sendKeys("5399832610076824");
 
         //Enter Expiry Date
         driver.findElement(By.xpath("//input[@class = 'date input_class' and @id = 'expiry']")).sendKeys("0621");
